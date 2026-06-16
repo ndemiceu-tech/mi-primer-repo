@@ -2,7 +2,7 @@
 
 Repositorio de prueba para aprender el flujo de trabajo con Git y GitHub.
 
-## Descripcion
+## Descripción
 
 Este proyecto sirve para practicar:
 
@@ -10,7 +10,7 @@ Este proyecto sirve para practicar:
 - Hacer commits
 - Abrir Pull Requests
 
-## Como empezar
+## Cómo empezar
 
 1. Clona el repositorio
 2. Crea una rama nueva
